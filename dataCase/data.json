@@ -1,0 +1,30 @@
+{
+    "data": [
+            {
+                "CustomViewType": "Header",
+                "Properties": {
+                    "Text": "'Custom view örnek'"
+                }
+            },
+            {
+                "CustomViewType": "Combobox",
+                "Properties": {
+                    "Header": "‘Combobox’",
+                    "Code": "[‘a’,’b’,’c’]",
+                    "Text": "[‘ilk’,’ikinci’,’üçüncü’]"
+                }
+            },
+            {
+                "CustomViewType": "TextInput",
+                "Properties": {
+                    "Header": "'Text Input 2'"
+                }
+            },
+            {
+                "CustomViewType": "TextInput",
+                "Properties": {
+                    "Header": "'Text Input 3’"
+                }
+            }
+        ]
+}
